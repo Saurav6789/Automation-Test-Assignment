@@ -46,6 +46,7 @@ Eclipse IDE Oxygen
 1. Using testng.xml
 
 a) Import the project into the eclipse IDE or any IDE with support for Maven
+
 b) Inside the src/test/resources/runner , testng.xml file is present . Right click and run as testng suite.
 
 2. Using Maven
