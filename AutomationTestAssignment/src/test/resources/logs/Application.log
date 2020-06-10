@@ -1,0 +1,7 @@
+2020-06-10 08:12:01 INFO  devpinoyLogger:11 - Test is Starting...
+2020-06-10 08:12:04 INFO  devpinoyLogger:16 - The current URL ishttps://www.verifone.com/en/uk/services/global-ecommerce-platform
+2020-06-10 08:12:04 INFO  devpinoyLogger:16 - The E-Commerce Home Page titleGlobal eCommerce
+2020-06-10 08:12:06 INFO  devpinoyLogger:16 - The following name is presentMike Pulli
+2020-06-10 08:12:07 INFO  devpinoyLogger:16 - The First result of the page contains:Leadership Transition at Verifone
+2020-06-10 08:12:09 INFO  devpinoyLogger:16 - The actual header on the page is :Verifone
+2020-06-10 08:12:09 INFO  devpinoyLogger:16 - The actual quote block on the page :Verifone and Francisco Partners Announce New Leadership Upon Closing
